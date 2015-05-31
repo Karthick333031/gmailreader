@@ -14,7 +14,7 @@ I intend to use NLTK on top of the subject/content/emails collected to understan
 
 ### Pre-requisites to install & configure
 
-1. easy_install ConfigParser
+1. easy_install ConfigParser 
 
 2. Install gmail from the link below
 >> https://github.com/charlierguo/gmail
@@ -23,6 +23,8 @@ I intend to use NLTK on top of the subject/content/emails collected to understan
 3. Install and configure PushBullet [ If Mobile notifications are required ]
 >> pip install pushbullet.py
 >> Note: push_sms function is untested. Use with care
+
+4. Install MySQL-python library
 
 ### Job Sequence :
  0. Create a MySQL table for storing the contents read from maildata
