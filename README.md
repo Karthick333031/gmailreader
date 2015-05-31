@@ -34,3 +34,6 @@ I intend to use NLTK on top of the subject/content/emails collected to understan
  2. Run python gmailreader.py
 
  3. Logs are automatically stored in mailreader-log/gmail-reader.log
+
+ 4. Configure the gmail reader as a cron job for automated reads!
+
