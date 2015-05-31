@@ -3,7 +3,7 @@ username = <enter email id here>
 password = <enter password here>
 
 [folders]
-mailbox = <enter mail box folder name, ex: Inbox>
+mailbox = <enter mail box folder name, ex: Reports, Provided the folder exists in mailbox>
 fromdate = <enter from date | leave it blank for current date >
 todate = <enter to date | leave it blank for current date >
 
