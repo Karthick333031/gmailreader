@@ -1,0 +1,18 @@
+[account]
+username = <enter email id here>
+password = <enter password here>
+
+[folders]
+mailbox = <enter mail box folder name, ex: Inbox>
+fromdate = <enter from date | leave it blank for current date >
+todate = <enter to date | leave it blank for current date >
+
+[server]
+hostname = imap.gmail.com
+
+[mysql]
+hostname = < mysql hostname >
+username = < Enter MySQL user >
+password = < Enter password >
+database = < Enter database >
+port = <port number>
