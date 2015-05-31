@@ -1,12 +1,12 @@
 # gmailreader
 Reads gmail automatically and stores it in a mysql database for analysis later
 This is a very simple wrapper on top of gmail python package [ which internally wraps email package! ].
-For mobile notifications, pushbullet is used
+For mobile notifications, pushbullet is used.
 
 ## Use case
-I had to analyze lot of feedbacks mailed. Volume of mails were high and to ensure I don't anything, I wrote this simple wrapper
+I had to analyze lot of feedbacks mailed. Volume of mails were high and to ensure I don't miss anything, I wrote this simple wrapper.
 
-I intend to use NLTK on top of the subject/content/emails collected to understand the themes and sentiments associated with the feedback emails
+I intend to use NLTK on top of the subject/content/emails collected to understand the themes and sentiments associated with the feedback emails.
 
 ## References
 1. http://www.voidynullness.net/blog/2013/07/25/gmail-email-with-python-via-imap/
